@@ -1,0 +1,54 @@
+
+body {
+ 
+    margin: 0;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+     sans-serif;
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+  }
+  
+  code {
+   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',3
+   
+     monospace;
+  }
+  .formCSS {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 60vh;
+   
+  }
+  
+  .header{
+   font-size: 100px;
+   position: relative;
+   font-style: italic;
+   right: -90px;
+   font-family: 'Ubuntu'
+  
+  }
+  .buttonForm {
+  
+   margin: 0.7em;
+   position: relative;
+   top: 150px;
+   right: 250px;
+  }
+  .Form {
+   
+   position: relative;
+   top: 220px;
+   right: 215px;
+  }
+  .background {
+   background: url('/backgroundIm.jpg') no-repeat;
+   background-size: cover;
+  }
+.card {
+    position: relative;
+    top: 100px;
+    right: -200px;
+}
